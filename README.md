@@ -6,13 +6,13 @@
 - 🔭 &nbsp; Aspiring Software Engineer with strong logic building and problem solving skills
 
   
-- ⚡ &nbsp; 
+- ⚡ &nbsp; Coding enthusiast with great communication skills
 
   
 - 🎓 &nbsp; Computer Science & Engineering Student @ SVNIT, Surat.
 
 
-- 📫 &nbsp; My Portfolio Website:- 
+- 📫 &nbsp; My Portfolio Website:- [work in progress]
 
 
 ### :hammer_and_wrench: Languages and Tools :
